@@ -1,14 +1,3 @@
----
-layout: archive
-title: "Publication"
-permalink: /publication/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
-
 Journal Articles
 ======
 
@@ -39,12 +28,3 @@ Other Publication
 [2] 曾國欣、蔡富安、李睿綺、張中白 (2018/06)。雷達衛星輔助工程環境監測 — 開放資料的潛力與機會。土木水利雙月刊「新世代空間資訊技術於土木水利工程之整合應用」特刊，45(3)。
 [3] 李睿綺 (2017)。羅賽塔彗星探測計畫-67P彗星地形研究。科技部大專學生研究計畫。
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
