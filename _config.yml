@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "vickielee333"
+  twitter          : "JCLee_vickie`                                                                            "
   vine             :
   weibo            :
   xing             :
@@ -122,8 +122,7 @@ include:
   - .htaccess
   - _pages
   - files
-exclude:
-  - "*.sublime-project"
+exclude:    - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
