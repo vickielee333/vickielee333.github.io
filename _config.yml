@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jui-Chi Lee"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "PhD student in Virginia Tech"
-  location         : "Blacksburg, VA, United States"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=wPjpE9EAAAAJ&hl=en"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "vickielee333"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-6686-546X"
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "JCLee_vickie"                                                                            "
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -122,7 +122,8 @@ include:
   - .htaccess
   - _pages
   - files
-exclude:    - "*.sublime-project"
+exclude:
+  - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
