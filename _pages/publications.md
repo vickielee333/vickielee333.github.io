@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publication"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 redirect_from:
@@ -13,9 +13,7 @@ redirect_from:
 Journal Articles
 ======
 
-[20] J.-C. Lee and M. Shirzaei (in press) A New Multitemporal SAR Interferometric Algorithm for Time Series Analysis of Sentinel-1 Dataset. Remote Sensing of Environment
-
-[19] J.-C. Lee, Y. N. Lin, C.-H. Tang, et al. (in prep) Coseismic and Early Postseismic Deformation of the 2016 Meinong Earthquake, Southwestern Taiwan
+[19] J.-C. Lee and M. Shirzaei (in press) A New Multitemporal SAR Interferometric Algorithm for Time Series Analysis of Sentinel-1 Dataset. Remote Sensing of Environment
 
 [18] M. Shirzaei, M. Khoshmanesh, C. Ojha, (including J.-C. Lee) et al. (2021) Persistent Impact of Compound Climate Extremes on Crop Loss in U.S. Midwest. Weather and Climate Extremes, vol.34, 100392
 
@@ -53,11 +51,58 @@ Journal Articles
 
 [1] Z.-Y. Lin, W.-H. Ip, L.-L. Lai, J.-C. Lee, et al. (2015). Morphology and Dynamics of Jets of Comet 67P/Churyumov-Gerasimenko: Early Phase Development. Astronomy and Astrophysics, 583, A11
 
-Other Publication
+
+Other Publications
 ======
-[1]  J.-C. Lee (2019). Sentinel-1 Radar Interferometry Decomposes Land Subsidence in Taiwan. Master Thesis. National Central University. Retrieved from https://etd.lib.nctu.edu.tw/cgi-bin/gs32/ncugsweb.cgi?o=dncucdr&s=id=%22GC105622017%22.&searchmode=basic
+[3]  J.-C. Lee (2019). Sentinel-1 Radar Interferometry Decomposes Land Subsidence in Taiwan. Master Thesis. National Central University. Retrieved from https://etd.lib.nctu.edu.tw/cgi-bin/gs32/ncugsweb.cgi?o=dncucdr&s=id=%22GC105622017%22.&searchmode=basic
 
 [2] 曾國欣、蔡富安、李睿綺、張中白 (2018/06)。雷達衛星輔助工程環境監測 — 開放資料的潛力與機會。土木水利雙月刊「新世代空間資訊技術於土木水利工程之整合應用」特刊，45(3)。
 
-[3] 李睿綺 (2017)。羅賽塔彗星探測計畫-67P彗星地形研究。科技部大專學生研究計畫。
+[1] 李睿綺 (2017)。羅賽塔彗星探測計畫-67P彗星地形研究。科技部大專學生研究計畫。
+
+
+Conference Presentations
+=====
+
+[21] J.-C. Lee, M. Shirzaei. Towards Safe Underground Water Banking: Crustal Stress Perturbation in the Santa Ana Groundwater Basin due to Water Usage and Restoration, AGU Fall Meeting, Chicago, 12-16 December, 2022
+
+[20] J.-C. Lee, M. Shirzaei. A Novel Multitemporal SAR Interferometric Algorithm for High-Resolution Sentinel-1 Datasets, AGU Fall Meeting, New Orleans, 13-17 December, 2021
+
+[19] J.-C. Lee, M. Shirzaei, M. Khoshmanesh, T. Taira. Observation of Spatiotemporal Creep Rate Variation Along Southern. San Andreas and San Jacinto Faults from InSAR Time Series and Repeating Earthquakes, AGU Fall Meeting, online, 1-18 December, 2020
+
+[18] J.-C. Lee, Y. N. Lin, S. Barbot, K.-H. Tseng, C.-P. Chang. Coseismic and Postseismic Deformation of the 2016 Meinong Earthquake, Southwest Taiwan: Implication for Mud Diapiric Deformation in Southwestern Taiwan. AOGS Annual Meeting, Singapore, 28 July-2 August, 2019
+
+[17] J.-C. Lee, Y.-N. Nina Lin, K.-H. Tseng, S. Barbot, C.-P. Chang. Coseismic and Postseismic Deformation of the 2016 Meinong Earthquake, Southwestern Taiwan. AGU Fall Meeting, Washington, D.C., U.S., 10-14 December, 2018
+
+[16]  J.-C. Lee, K.-H Tseng, Y.-N. Nina Lin, C.-P. Chang, A Densified Sentinel-1 in Time Series in Taiwan. AOGS Annual Meeting, Hawaii, U.S., 3-8 June, 2018.
+
+[15]  J.-C. Lee, C.-P. Chang, K.-T. Tseng, G.-P. Lin, H. Kuo-Chen, Surface Deformation of the North-Eastern India Using Sentinel-1Persistent Scatterers Interferometry, EGU General Assembly, vol. 20, p.7404, Vienna, Austria, 8–13 April, 2018.
+
+[14] J.-C. Lee, A Densified Sentinel-1 in Time Series in Taiwan. 2018 Estonia-Taiwan Workshop on Remote Sensing for Environmental Monitoring and Geodetic Applications, Estonia University of Life Sciences, Tartu, Estonia, 5 Apr, 2018.
+
+[13] J.-C. Lee, C.-P. Chang, A. Yhokha, A. K. Manini, J.-Y. Yen, Monitoring Fault Activities of the Northeastern India Area Using Persistent Scatterer Interferometry and Sentinel-1 SAR Data, Fringe 2017, Helsinki, Finland, 5-9 June, 2017.
+
+[12]  J.-C. Lee, M. Massironi, L. Giacomini, et al., Geomorphological Mapping on the Southern Hemisphere of Comet 67P/Churyumov-Gerasimenko, Lunar and Planetary Science Conference, vol.47, p.1727, Woodlands, U.S, 21-25 March, 2016.
+
+[11]  J.-C. Lee, M. Massironi, L. Giacomini, et al., Geomorphological Mapping on the Southern Hemisphere of Comet 67P/Churyumov-Gerasimenko, EGU General Assembly, vol. 18, p.16188, Vienna, Austria, 17-22 April, 2016.
+
+[10] K.-H. Tseng and J.-C. Lee, Combining Sentinel Satellites to Monitor Water Level Variation in Namco, Tibet. EGU General Assembly, vol. 20, Vienna, Austria, 8–13 April, 2018.
+
+[9] W.-T. Liao, C.-P. Chang, J.-C. Lee et al. (2018) Temporal Land Displacement Map of Taiwan Using Sentinel-1 Data with Ionospheric Correction. EGU General Assembly, vol. 20, Vienna, Austria, 8–13 April, 2018.
+
+[8] M. Pajola, J.-C. Lee, N. Oklay,  S. F. Hviid, S. Fornasier, L.  Penasa, S. Mottola, X. Shi, B. Davidsson, M. Massironi, G. Naletto, L. Giacomini, W.-H. Ip, H. Sierks. Multidisciplinary Analysis of the Hapi Region on Comet 67P/Churyumov-Gerasimenko, Lunar and Planetary Science Conference, vol. 49, p.1872, Woodlands, U.S., 19-23 March, 2018.
+
+[7] S. Fornasier, C. Feller, J.-C. Lee, S. Ferrari et al., Geomorphology and spectrophotometric properties of the highly active Anhur-Bes regions on the 67P/Churyumov-Gerasimenko comet, European Planetary Science Congress 2017, Vol. 11, EPSC2017-169, Riga, Latvia, 17-22 September, 2017
+
+[6] I.-L. Lai, W.-H. Ip, J.-C. Lee, Z.-Y. Lin et al., Seasonal variations of the source regions of the dust jets of comet 67P/Churyumov-Gerasimenko, European Planetary Science Congress 2017, Vol. 11, EPSC2017-784, Riga, Latvia, 17-22 September, 2017
+
+[5] W.-H. Ip, I.-L. Lai, J.-C. Lee et al., Mapping of the source regions of the dust jets on comet 67P, EGU General Assembly, vol. 18, p.5347, Vienna, Austria
+
+[4] I.-L. Lai, C.-C. Su, W.-H. Ip, J.-C. Lee, et al., Gas outflow and dust transport of comet 67P/Churyumov-Gerasimenko, EGU General Assembly, vol. 18, p.3655, Vienna, Austria, 17-22 April, 2016.
+
+[3] Y. JeongAhn, R. Malhotra, S. Werner, J.-C. Lee, et al., Spatial distribution of steep lunar craters may be linked to size-dependent orbital distribution of impactors, AAS/Division for Planetary Sciences Meeting Abstracts, vol. 48, Pasadena, U.S., 16-21 October, 2016
+
+[2] M. Pajola, J. B. Vincent, J.-C. Lee, et al., The global size-frequency distribution of boulders> 7 m on Comet 67P Churyumov-Gerasimenko, EGU General Assembly, vol. 17, p.5379, Vienna, Austria, 12-17 April, 2015
+
+[1] W.-H. Ip, Y. Li, Z.-Y. Lin, J.-C. Lee, et al., A Comparison of the Size Frequency Distributions of the Quasi-circular Flat-floor Depression Structures on Comet 67P/Churyumov-Gerasimenko and Comet Wild 2, EGU General Assembly, vol. 17, p.5017, Vienna, Austria, 12-17 April, 2015
 
