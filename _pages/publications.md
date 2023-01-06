@@ -13,7 +13,7 @@ redirect_from:
 Journal Articles
 ======
 
-[19] J.-C. Lee and M. Shirzaei (in press) A New Multitemporal SAR Interferometric Algorithm for Time Series Analysis of Sentinel-1 Dataset. Remote Sensing of Environment
+[19] J.-C. Lee and M. Shirzaei (2023) A New Multitemporal SAR Interferometric Algorithm for Time Series Analysis of Sentinel-1 Dataset. Remote Sensing of Environment, vol. 286, 113447
 
 [18] M. Shirzaei, M. Khoshmanesh, C. Ojha, (including J.-C. Lee) et al. (2021) Persistent Impact of Compound Climate Extremes on Crop Loss in U.S. Midwest. Weather and Climate Extremes, vol.34, 100392
 
