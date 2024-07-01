@@ -13,6 +13,8 @@ redirect_from:
 Journal Articles
 ======
 
+[20] D. Peng, Y. N. Lin, J.-C. Lee et al. (2024) Multi-constellation GNSS interferometric reflectometry for tidal analysis: mitigations for K1 and K2 biases due to GPS geometrical errors. Journal of Geodesy, vol. 98 (1), 5
+
 [19] J.-C. Lee and M. Shirzaei (2023) A New Multitemporal SAR Interferometric Algorithm for Time Series Analysis of Sentinel-1 Dataset. Remote Sensing of Environment, vol. 286, 113447
 
 [18] M. Shirzaei, M. Khoshmanesh, C. Ojha, (including J.-C. Lee) et al. (2021) Persistent Impact of Compound Climate Extremes on Crop Loss in U.S. Midwest. Weather and Climate Extremes, vol.34, 100392
@@ -54,7 +56,9 @@ Journal Articles
 
 Other Publications
 ======
-[3]  J.-C. Lee (2019). Sentinel-1 Radar Interferometry Decomposes Land Subsidence in Taiwan. Master Thesis. National Central University. Retrieved from https://etd.lib.nctu.edu.tw/cgi-bin/gs32/ncugsweb.cgi?o=dncucdr&s=id=%22GC105622017%22.&searchmode=basic
+[4] J.-C. Lee (2024) Novel Multitemporal Synthetic Aperture Radar Interferometry Algorithms and Models Applied on Managed Aquifer Recharge and Fault Creep. Doctoral Thesis. Virginia Tech. Retrived from https://hdl.handle.net/10919/117918
+
+[3] J.-C. Lee (2019). Sentinel-1 Radar Interferometry Decomposes Land Subsidence in Taiwan. Master Thesis. National Central University. Retrieved from https://etd.lib.nctu.edu.tw/cgi-bin/gs32/ncugsweb.cgi?o=dncucdr&s=id=%22GC105622017%22.&searchmode=basic
 
 [2] 曾國欣、蔡富安、李睿綺、張中白 (2018/06)。雷達衛星輔助工程環境監測 — 開放資料的潛力與機會。土木水利雙月刊「新世代空間資訊技術於土木水利工程之整合應用」特刊，45(3)。
 
