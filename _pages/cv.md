@@ -11,13 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Geoscience, Virginia Tech, 2024 (expected)
+* Ph.D in Geoscience, Virginia Tech, 2024 
 * M.S. in Geophysics, National Central University, 2019
 * B.S. in Earth Science, National Central University, 2017
 
 Work experience
 ======
-* 2020/08 - Current : Graduate Research Assistant
+* 2024/03 - Present : Postdoctoral Researcher
+  * Private Sector
+     
+* 2020/08 - 2024/03 : Graduate Research Assistant
   * Virginia Tech
   * Projects: Fault Creep of San Andreas Fault, Poroelastic Modeling of Aquifer
   * Supervisor: Professor Manoochehr Shirzaei
