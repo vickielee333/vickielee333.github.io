@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * 2024/03 - Present : Postdoctoral Researcher
-  * Private Sector
+  * FM (Factory Mutual Insurance Company)
      
 * 2020/08 - 2024/03 : Graduate Research Assistant
   * Virginia Tech
