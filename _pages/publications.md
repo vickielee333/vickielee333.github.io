@@ -13,9 +13,11 @@ redirect_from:
 Journal Articles
 ======
 
+[21] L.O. Ohenhen, G. Zhai, J. Lucy (including J.-C. Lee) et al. (2025) Land subsidence risk to infrastructure in US metropolises. Nature Cities 2, 543–554
+
 [20] D. Peng, Y. N. Lin, J.-C. Lee et al. (2024) Multi-constellation GNSS interferometric reflectometry for tidal analysis: mitigations for K1 and K2 biases due to GPS geometrical errors. Journal of Geodesy, vol. 98 (1), 5
 
-[19] J.-C. Lee and M. Shirzaei (2023) A New Multitemporal SAR Interferometric Algorithm for Time Series Analysis of Sentinel-1 Dataset. Remote Sensing of Environment, vol. 286, 113447
+[19] J.-C. Lee and M. Shirzaei (2023) Novel algorithms for pair and pixel selection and atmospheric error correction in multitemporal InSAR. Remote Sensing of Environment, vol. 286, 113447
 
 [18] M. Shirzaei, M. Khoshmanesh, C. Ojha, (including J.-C. Lee) et al. (2021) Persistent Impact of Compound Climate Extremes on Crop Loss in U.S. Midwest. Weather and Climate Extremes, vol.34, 100392
 
@@ -68,9 +70,19 @@ Other Publications
 Conference Presentations
 =====
 
-[21] J.-C. Lee, M. Shirzaei. Towards Safe Underground Water Banking: Crustal Stress Perturbation in the Santa Ana Groundwater Basin due to Water Usage and Restoration, AGU Fall Meeting, Chicago, 12-16 December, 2022
+[26] F. Onyike, M. Shirzaei, J.-C. Lee, S. Werth. Evaluating the Effectiveness of Managed Aquifer Recharge in Preventing Land Subsidence Globally, AGU Fall Meeting, Washington D.C., 9-13 December, 2024
 
-[20] J.-C. Lee, M. Shirzaei. A Novel Multitemporal SAR Interferometric Algorithm for High-Resolution Sentinel-1 Datasets, AGU Fall Meeting, New Orleans, 13-17 December, 2021
+[25] F. Onyike, M. Shirzaei, J.-C. Lee. Global Assessment of Managed Aquifer Recharge Success for Mitigating Land Subsidence, GSA Connects 2024, Anaheim, 13-29 September, 2024
+
+[24] J.-C. Lee, M. Shirzaei, F. Onyike, M. Reshadati. Managed Aquifer Recharge Mitigates Land Subsidence across the World, AGU Fall Meeting, San Francisco, 11-15 December, 2024
+
+[23] G. Zhai, L. Ohenhen, K. Ghobadi-Far, G Carlson (Including J.-C. Lee) et al. Quantifying subsidence damage risk to infrastructures in 25 most populous US cities from the space, AGU Fall Meeting, Chicago, 12-16 December, 2022
+
+[22] J.-C. Lee, M. Shirzaei. Towards Safe Underground Water Banking: Crustal Stress Perturbation in the Santa Ana Groundwater Basin due to Water Usage and Restoration, AGU Fall Meeting, Chicago, 12-16 December, 2022
+
+[21] J.-C. Lee, M. Shirzaei. A Novel Multitemporal SAR Interferometric Algorithm for High-Resolution Sentinel-1 Datasets, AGU Fall Meeting, New Orleans, 13-17 December, 2021
+
+[20] J.-C. Lee, M. Shirzaei. New High Resolution Topography Along 40 KM of the Southern San Andreas Fault, GSA Connects 2021, Portland, 4-13 October, 2021
 
 [19] J.-C. Lee, M. Shirzaei, M. Khoshmanesh, T. Taira. Observation of Spatiotemporal Creep Rate Variation Along Southern. San Andreas and San Jacinto Faults from InSAR Time Series and Repeating Earthquakes, AGU Fall Meeting, online, 1-18 December, 2020
 
